@@ -21,11 +21,12 @@ Hi, I'm Putu Jhonarendra. I live in Badung, Bali, Indonesia.
 
 
 ### ✉ Let's connect!
-<p>
-    <a href="https://id.linkedin.com/in/putu-jhonarendra-490b66139" target="blank"><img align="left" alt="Jhonarendra LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://facebook.com/putujhonarendra" target="blank"><img align="left" alt="Jhonarendra Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-    <a href="https://instagram.com/jhonarendra" target="blank"><img align="left" alt="Jhonarendra Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</p>
+
+<a href="https://facebook.com/putujhonarendra" target="blank"><img align="left" alt="Jhonarendra Facebook" width="22" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" /></a>
+<a href="https://instagram.com/jhonarendra" target="blank"><img align="left" alt="Jhonarendra Instagram" width="22" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" /></a>
+<a href="http://twitter.com/jonarendra" target="blank"><img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="22" /></a>
+<a href="https://id.linkedin.com/in/putu-jhonarendra-490b66139" target="blank"><img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="22" /></a>
+
 
 <br />
 
