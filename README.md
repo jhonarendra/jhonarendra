@@ -4,7 +4,7 @@
 
 Hi, I'm Jhonarendra. I live in Badung, Bali, Indonesia.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jhonarendra&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=jhonarendra&count_private=true&show_icons=true&theme=tokyonight)
 
 ### Follow me on social media
 
