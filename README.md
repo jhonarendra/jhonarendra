@@ -25,11 +25,6 @@ Hi, I'm Putu Jhonarendra. I live in Badung, Bali, Indonesia.
 ---
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jhonarendra&count_private=true&show_icons=true&theme=tokyonight)
-
-
-
-
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jhonarendra&count_private=true&show_icons=true&theme=tokyonight)
 
