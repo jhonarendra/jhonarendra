@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello World 👋
 
 <img src="https://komarev.com/ghpvc/?username=jhonarendra" alt="jhonarendra" /> <img src="https://img.shields.io/github/followers/jhonarendra?label=follow&style=social" />
 
 Hi, I'm Putu Jhonarendra. I live in Badung, Bali, Indonesia.
 
-### 💁‍♂️ About me
+### About me
   - 🔭 I’m currently working as Web Programmer
   - ⚡ Excited to create app that usefull to other
   - 🌱 I’m currently learning about front-end web technology
